@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MAT102 Exam
+title: MAT102
 description: >- # this means to ignore newlines until "baseurl:"
   Material for MAT102 examination 2021
 baseurl: '/mat102' # the subpath of your site, e.g. /blog
@@ -32,6 +32,8 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+theme: just-the-docs
+color_scheme: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
