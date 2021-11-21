@@ -1,7 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Test
 
-layout: home
----
-# asd
+$$a^2 + b^2 = c^2$$
