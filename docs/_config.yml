@@ -22,7 +22,7 @@ title: MAT102
 description: >- # this means to ignore newlines until "baseurl:"
   Material for MAT102 examination 2021
 baseurl: '/mat102' # the subpath of your site, e.g. /blog
-url: 'https://cetmoe.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cetmoe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cetmoe
 markdown: kramdown
 incremental: false
