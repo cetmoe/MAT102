@@ -29,6 +29,7 @@ nav_order: 1
 - Varians
 - Standardavvik
 - Formler for sannsynlighet, $$P(X=x)$$
+- Sannsynlighetsfordelinger
   - Bimonial
   - Poisson
   - Hypergeometrisk
