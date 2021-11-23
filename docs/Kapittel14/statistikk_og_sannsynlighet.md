@@ -2,7 +2,7 @@
 layout: default
 title: Sannsynlighet og Statistikk
 parent: Kapittel 14
-nav_order: 3
+nav_order: 1
 ---
 
 # Statistikk og Sannsynlighet

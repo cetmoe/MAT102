@@ -94,6 +94,8 @@ $$P(\text{nøyaktig 2 sms}) = \frac{(\frac{4}{3})^2}{2!}e^{-\frac{4}{3}} = \unde
 
 $$P(\text{minst 1 sms}) = 1 -  \frac{(\frac{4}{3})^0}{0!}e^{-\frac{4}{3}} = \underline{\underline{0.736}}$$
 
+---
+
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>
   MathJax = {
