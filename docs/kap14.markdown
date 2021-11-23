@@ -104,6 +104,7 @@ $$X \sim hypergeom(N,M,n)$$
 ### Forventning
 
 $$E(X) = n \cdot \frac{M}{N}$$
+
 ### Varians
 
 $$Var(X) = n \cdot \frac{M}{N}(1-\frac{M}{N})\cdot\frac{N-n}{N-1}$$
