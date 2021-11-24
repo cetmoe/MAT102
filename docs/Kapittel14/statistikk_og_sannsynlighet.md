@@ -75,12 +75,3 @@ $$Var(X) = \sum (x-E(X))\cdot P(X=x)$$
 Standardavvik av en stokastik variabel.
 
 $$Std(X) = \sqrt{Var(X)}$$
-
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  MathJax = {
-      options: {
-        enableMenu: false
-      }
-    }
-</script>

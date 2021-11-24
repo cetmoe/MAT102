@@ -2,7 +2,7 @@
 layout: default
 title: Sannsynlighets Fordelinger
 parent: Kapittel 14
-nav_order: 3
+nav_order: 2
 ---
 
 # Sannsynlighets Fordelinger
@@ -80,27 +80,18 @@ $$P(X=x) = \frac{(\lambda t)^x}{x!}e^{-\lambda t}$$
 
 Vi måler antall sms mottatt på en basestasjon over 20 sekunder. En basestasjon mottar i snitt 4 sms pr. minutt. Hva er sannsynligheten for at vi får nøyaktig 2 sms? Hva er sannsynligheten for at vi får minst 1 sms?
 
-La $$X=\{\text{antall sms på 20 sekund}\}$$, og $$\lambda = 4 \text{ sms/min}$$, og $$t = 20 \text{ sek} = \frac{1}{3} \text{ minutt}$$.
+La $$X=\{\text{antall sms på 20 sekund}\}$$, og $$\lambda = 4 \text{ sms/min}$$, og $$t = 20 \text{ sek} = \dfrac{1}{3} \text{ minutt}$$.
 
 Da er
 
-$$X \sim Po(4\cdot \frac{1}{3})$$
+$$X \sim Po(4\cdot \dfrac{1}{3})$$
 
 *Hva er sannsynligheten for å få nøyaktig 2 sms?*
 
-$$P(\text{nøyaktig 2 sms}) = \frac{(\frac{4}{3})^2}{2!}e^{-\frac{4}{3}} = \underline{\underline{0.234}}$$
+$$P(\text{nøyaktig 2 sms}) = \dfrac{(\frac{4}{3})^2}{2!}e^{-\dfrac{4}{3}} = \underline{\underline{0.234}}$$
 
 *Hva er sannsynligheten for å få minst 1 sms?*
 
-$$P(\text{minst 1 sms}) = 1 -  \frac{(\frac{4}{3})^0}{0!}e^{-\frac{4}{3}} = \underline{\underline{0.736}}$$
+$$P(\text{minst 1 sms}) = 1 -  \dfrac{(\frac{4}{3})^0}{0!}e^{-\dfrac{4}{3}} = \underline{\underline{0.736}}$$
 
 ---
-
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  MathJax = {
-      options: {
-        enableMenu: false
-      }
-    }
-</script>

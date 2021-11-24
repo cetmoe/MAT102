@@ -42,12 +42,3 @@ $$\nabla f(a,b) = (\frac{\partial f}{\partial a}, \frac{\partial f}{\partial b})
 {: .text-green-000 }
 
 Et punkt $$(a,b)$$ er et stasjonært punkt dersom $$\nabla f(a,b) = \overrightarrow{0}$$. Altså er et punkt stasjonært dersom gradient vektoren i punktet er null.
-
-<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  MathJax = {
-      options: {
-        enableMenu: false
-      }
-    }
-</script>
