@@ -64,11 +64,19 @@ Den forventa verdien av en stokastisk variabel.
 
 $$E(X) = \sum x \cdot P(X=x)$$
 
+Nyttig omgjøring
+
+$$E(aX+b) = aE(X)+b$$
+
 ### Varians
 
 Varians av en stokastisk variabel.
 
-$$Var(X) = \sum (x-E(X))\cdot P(X=x)$$
+$$Var(X) = \sum \big(x-E(X)\big)\cdot P(X=x)$$
+
+Nyttig omgjøring
+
+$$Var(aX+b) = a^2Var(X)$$
 
 ### Standardavvik
 
