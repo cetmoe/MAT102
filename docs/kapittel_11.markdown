@@ -27,6 +27,33 @@ og
 
 $$\frac{\partial f}{\partial y} = x^2 +\cos{y}$$
 
+
+## 2. ordens partiell derivasjon
+{: .text-green-000 }
+
+$$f_{xx} = \frac{\partial^2 f}{\partial x^2}$$
+
+$$f_{yy} = \frac{\partial^2 f}{\partial y^2}$$
+
+$$f_{yx} = \frac{\partial^2 f}{\partial x \partial y} = \frac{f_y}{\partial x}$$
+
+$$f_{xy} = \frac{\partial^2 f}{\partial y \partial x} = \frac{f_x}{\partial y}$$
+
+Dersom $$f$$ og dei deriverte av f er kontinuerlige så er
+
+$$f_{xy} = f_{yx}$$
+
+### Hessematrise
+
+$$ H = \begin{bmatrix}
+    f_{xx} && f_{xy} \\
+    f_{yx} && f_{yy}
+\end{bmatrix}$$
+
+### Hessedeterminanten
+
+$$\triangle = det(H) = f_{xx} \cdot f_{yy} - f_{xy} \cdot f{yx}$$
+
 ---
 
 ## Gradient vektor
@@ -34,7 +61,7 @@ $$\frac{\partial f}{\partial y} = x^2 +\cos{y}$$
 
 Gradient vektoren til en funksjon $$f(a,b)$$ kan finnes ved å kombinere de partielle derivasjonene av $$f(a,b)$$, $$f_a(a,b)$$ og $$f_b(a,b)$$.
 
-$$\nabla f(a,b) = (\frac{\partial f}{\partial a}, \frac{\partial f}{\partial b}) = (f_a(a,b),f_b(a,b))$$
+$$\nabla f(a,b) = \bigg(\frac{\partial f}{\partial a}, \frac{\partial f}{\partial b}\bigg) = \big(f_a(a,b),f_b(a,b)\big)$$
 
 ---
 
@@ -42,3 +69,19 @@ $$\nabla f(a,b) = (\frac{\partial f}{\partial a}, \frac{\partial f}{\partial b})
 {: .text-green-000 }
 
 Et punkt $$(a,b)$$ er et stasjonært punkt dersom $$\nabla f(a,b) = \overrightarrow{0}$$. Altså er et punkt stasjonært dersom gradient vektoren i punktet er null.
+
+For å klassifisere de kritiske punkta.
+
+### Minimumspunkt
+
+$$\triangle > 0$$ og $$f_{xx} > 0$$
+
+### Maksimumspunkt
+
+$$\triangle > 0$$ og $$f_{xx} < 0$$
+
+### Salpunkt
+
+$$\triangle < 0$$
+
+I tilfellet der $$\triangle = 0$$ er karakeristiske trekk ukjent.

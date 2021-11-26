@@ -54,7 +54,22 @@ $$\begin{align*}
 
 ---
 
+## Student-t Fordeling
+{: .text-green-000 }
+
+La $$\hat{\mu} = \overline{X}$$ være estimat for forventningsverdi.
+
+La $$S^2$$ være estimat for variansen.
+
+$$S^2= \frac{1}{n-1} \sum \bigg( X_i - \overline{X} \bigg)^2$$
+
+$$(1-\alpha)$$ konfidensintervallet for $$\mu$$ er:
+
+$$\overline{X} \pm t_{\alpha/2,n-1} \cdot \frac{S}{\sqrt{n}}$$
+
+---
 ## $$u_\alpha$$ tabell.
+{: .text-green-000 }
 
 | $$u_\alpha$$ | $$\alpha$$ | Sikkerhet |
 |:-------------|:-----------|:----------|
