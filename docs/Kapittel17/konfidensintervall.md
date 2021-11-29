@@ -5,7 +5,7 @@ nav_order: 2
 parent: Kapittel 17
 ---
 
-# Kapittel 17
+# Konfidensintervall
 {: .no_toc}
 ## Table of contents
 {: .no_toc .text-delta }

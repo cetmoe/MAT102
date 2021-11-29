@@ -5,7 +5,7 @@ nav_order: 1
 parent: Kapittel 18
 ---
 
-# Kapittel 17
+# Regresjon
 {: .no_toc}
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,8 +15,10 @@ parent: Kapittel 18
 
 ---
 
-## Regresjon
+## $$n$$-ordens regresjon
 {: .text-green-000 }
+
+Utregning av regresjon for et datasett er ikke eksamensrelevant.
 
 ### 1. ordens regresjon
 
