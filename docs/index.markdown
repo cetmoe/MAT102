@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pensum
+title: Introduksjon
 nav_order: 1
 ---
 
@@ -13,6 +13,10 @@ nav_order: 1
 {:toc}
 
 ---
+
+## Forord
+
+Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følgefeil og også være feil prinspielt.
 
 ## Kapittel 11
 

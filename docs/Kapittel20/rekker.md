@@ -20,7 +20,7 @@ parent: Kapittel 20
 
 Den geometriske rekka er gitt ved
 
-$$\frac{1}{1-x} = \sum_{n=0}^\inf x^n$$
+$$\frac{1}{1-x} = \sum_{n=0}^\infty x^n$$
 
 Hvis
 
