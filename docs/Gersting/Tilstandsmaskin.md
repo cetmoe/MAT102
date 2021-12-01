@@ -22,6 +22,8 @@ parent: Gersting
 - Maskina er deterministisk
 - Endelig antall tilstander.
 
+---
+
 ## Definisjon (Finite state machine)
 {: .text-green-000 }
 
@@ -35,6 +37,8 @@ $$M = [S, I, O, fs, fo]$$
 - $$fs: S \times I \rightarrow S$$, tilstands funksjon eller overgangsfunksjon.
 - $$fo: S \rightarrow O$$, output funksjon.
 - Vi har en basis tilstand : $$S_0$$.
+
+---
 
 ## Eksempel
 {: .text-green-000 }
@@ -52,16 +56,20 @@ Tilstandstabell:
 
 Finn output av input 0 1 1 0 1:
 
-$$S_0 \rightarrow S_1 \rightarrow S_1 \rightarrow S_1 \rightarrow S_2 \rightarrow S_0 \rightarrow$$
+$$S_0 \rightarrow S_1 \rightarrow S_1 \rightarrow S_1 \rightarrow S_2 \rightarrow S_0$$
 
 Output er altså: 0 1 1 1 1 0
 
 [Tilstands graf](https://i.imgur.com/8gsbal5.png)
 
+---
+
 ## Aksepterende tilstand
 {: .text-green-000 }
 
 En aksepterende tilstand er en eller flere tilstander som indikerer at input til tilstandsmaskinen er godkjent.
+
+---
 
 ## Paritets test
 {: .text-green-000 }

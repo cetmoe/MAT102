@@ -26,12 +26,16 @@ Hvis
 
 $$|x| < 1$$
 
+--
+
 ## Taylor Rekke
 {: .text-green-000 }
 
 En taylor rekke er en rekke som tilnærmer en funksjon $$f(x)$$.
 
 $$f(x) = \sum^{\infty}_{n=0} \frac{f^{n}(a)}{n!}(x-a)^n$$
+
+--
 
 ## Konvergensintervall
 {: .text-green-000 }
@@ -47,6 +51,8 @@ $$L = \lim_{n\rightarrow \infty} \bigg| \frac{a_{n+1} x^{n+1}}{a_{n} x^{n}}\bigg
     > 1, && \text{divergent} \\
     = 1, && \text{ukjent}
 \end{cases}$$
+
+---
 
 ## Referansetabell
 {: .text-green-000 }
