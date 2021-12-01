@@ -15,10 +15,12 @@ nav_order: 1
 ---
 
 ## Forord
+{: .text-green-000 }
 
 Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følgefeil og også være feil prinsipielt.
 
 ## Kapittel 11
+{: .text-green-000 }
 
 - Partielle deriverte
 - Regning og forståelse av gradient.
@@ -28,6 +30,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Kapittel 14
+{: .text-green-000 }
 
 - Forventningsverdi
 - Varians
@@ -42,6 +45,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Kapittel 16
+{: .text-green-000 }
 
 - Regning på sannsynligheter for mengder med ulike betingelser.
 - Kunne definere betinget sannsynlighet.
@@ -50,6 +54,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Kapittel 17
+{: .text-green-000 }
 
 - Tankegangen bak konfidensintervall og hypotesetest.
 - Kunne resonere ved hjelp av små figurer for normalfordeling og arealer under grafen til tetthetsfunksjonen.
@@ -60,6 +65,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Kapittel 18
+{: .text-green-000 }
 
 - Forstå utregning og svar av regresjon.
 - Kunne resonere ut fra grafer med den numeriske informasjonen i determinasjonskoeffisienten.
@@ -70,9 +76,10 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Kapittel 20
+{: .text-green-000 }
 
 - Kunne sammenhengen mellom genererende funksjoner, genererende rekker og tallfølger.
-- Viktigste eksamplene er:
+- Viktigste eksemplene er:
   - Geometriske rekken
   - Rekkene som kommer fra den ved derivasjon og ved substitusjon.
 - Kjenne til logaritmefunksjonen og eksponentialfunksjonen.
@@ -81,6 +88,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ---
 
 ## Gersting
+{: .text-green-000 }
 
 - Vite hvordan regulære uttrykk, språk/grammatikker og endelige tilstandsmaskiner er definert, hvordan de brukes og hvordan de henger sammen.
 - Kunne resonnere frem og tilbake ved hjelp av vanlige ord.

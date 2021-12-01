@@ -44,6 +44,7 @@ Dersom $$f$$ og dei deriverte av f er kontinuerlige så er
 $$f_{xy} = f_{yx}$$
 
 ### Hessematrise
+{: .text-green-200 }
 
 $$ H = \begin{bmatrix}
     f_{xx} && f_{xy} \\
@@ -51,6 +52,7 @@ $$ H = \begin{bmatrix}
 \end{bmatrix}$$
 
 ### Hessedeterminanten
+{: .text-green-200 }
 
 $$\triangle = det(H) = f_{xx} \cdot f_{yy} - f_{xy} \cdot f{yx}$$
 
@@ -73,15 +75,18 @@ Et punkt $$(a,b)$$ er et stasjonært punkt dersom $$\nabla f(a,b) = \overrightar
 For å klassifisere de kritiske punkta.
 
 ### Minimumspunkt
+{: .text-green-200 }
 
 $$\triangle > 0$$ og $$f_{xx} > 0$$
 
 ### Maksimumspunkt
+{: .text-green-200 }
 
 $$\triangle > 0$$ og $$f_{xx} < 0$$
 
 ### Salpunkt
+{: .text-green-200 }
 
 $$\triangle < 0$$
 
-I tilfellet der $$\triangle = 0$$ er karakeristiske trekk ukjent.
+I tilfellet der $$\triangle = 0$$ er karakteristiske trekk ukjent.

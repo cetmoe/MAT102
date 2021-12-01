@@ -60,5 +60,5 @@ $$L = \lim_{n\rightarrow \infty} \bigg| \frac{a_{n+1} x^{n+1}}{a_{n} x^{n}}\bigg
 | Funksjon | Rekke | Følge |
 | $$\frac{1}{1-x}$$ | $$\sum_{n=0}^\infty 1 \cdot x^n = 1 + x + x^2 +...$$ | $$\lbrace 1 \rbrace_{n=0}^\infty$$ |
 | $$\frac{1}{(1-x)^2}$$ | $$\sum_{n=0}^\infty (n+1) x^n = 1 + 2x + 3x^2 +...$$ | $$\lbrace n+1 \rbrace_{n=0}^\infty$$ |
-| $$-\ln(1-x)$$ | $$\sum_{n=1}^\infty \frac{1}{n} x^n = x + \frac{x^2}{2} +...$$ | $$\lbrace \frac{1}{n} \rbrace_{n=1}^\infty$$ |
+| $$-\ln(1-x)$$ | $$\sum_{n=1}^\infty \frac{1}{n} x^n = x + \frac{x^2}{2} +...$$ | $$ \begin{cases} 0 && n=0 \\ \frac{1}{n} && n \geq 1 \end{cases} $$ |
 | $$e^x$$ | $$\sum_{n=0}^\infty \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} +...$$ | $$\lbrace \frac{1}{n!} \rbrace_{n=0}^\infty$$ |
