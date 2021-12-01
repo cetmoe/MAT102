@@ -89,6 +89,6 @@ $$Var(aX+b) = a^2Var(X)$$
 ### Standardavvik
 {: .text-green-200 }
 
-Standardavvik av en stokastik variabel.
+Standardavvik av en stokastisk variabel.
 
 $$Std(X) = \sqrt{Var(X)}$$

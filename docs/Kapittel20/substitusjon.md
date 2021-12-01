@@ -18,7 +18,7 @@ parent: Kapittel 20
 ## Substitusjon
 {: .text-green-000 }
 
-La $$f(x)$$ med Taylorrekke
+La $$f(x)$$ være en Taylorrekke
 
 $$f(x) = \sum_{n=0}^\infty a_n x^n$$
 
@@ -36,7 +36,7 @@ $$f(u(x)) = \sum_{n=0}^\infty a_n(u(x))^n$$
 ### Funksjon til rekke
 {: .text-green-200 }
 
-Finn Talorrekka til $$\frac{1}{1-2x}$$
+Finn Talorrekken til $$\frac{1}{1-2x}$$
 
 $$\frac{1}{1-2x} = \frac{1}{1-u} = \sum_{n=0}^\infty u^n = \sum_{n=0}^\infty (2x)^n = \sum_{n=0}^\infty 2^nx^n$$
 

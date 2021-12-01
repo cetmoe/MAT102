@@ -16,7 +16,7 @@ nav_order: 1
 
 ## Forord
 
-Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følgefeil og også være feil prinspielt.
+Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følgefeil og også være feil prinsipielt.
 
 ## Kapittel 11
 
@@ -52,7 +52,7 @@ Nettsiden er lagd for egen læring, det vil si at mye av innholdet kan ha følge
 ## Kapittel 17
 
 - Tankegangen bak konfidensintervall og hypotesetest.
-- Kunne resonere ved hjelp av små figurer for normalfordeling og arealer under graften til tetthetsfunksjonen. ()
+- Kunne resonere ved hjelp av små figurer for normalfordeling og arealer under grafen til tetthetsfunksjonen.
 - Konfidensintervall med ukjent varians.
   - Kunne formel for S.
   - Antall frihetsgrader som trengs for å kunne velge riktig t-verdi.

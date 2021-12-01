@@ -32,7 +32,7 @@ En endelig tilstandsmaskin består av
 $$M = [S, I, O, fs, fo]$$
 
 - $$S$$ - mengden av alle tilstander til maskina.
-- $$I$$ - mengen av input symbol.
+- $$I$$ - mengden av input symbol.
 - $$O$$ - mengden av output symbol.
 - $$fs: S \times I \rightarrow S$$, tilstands funksjon eller overgangsfunksjon.
 - $$fo: S \rightarrow O$$, output funksjon.

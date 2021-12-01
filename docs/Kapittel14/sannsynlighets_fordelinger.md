@@ -44,7 +44,7 @@ $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$
 ## Hypergeometrisk fordeling
 {: .text-green-000 }
 
-Hypergeometriskfordelingen er en fordeling av tilfeldige forsøk uten tilbakelegging, hvor $$N$$ er totalt antall element, $$M$$ er antall positive forsøk, og $$n$$ er antall forsøk.
+Den Hypergeometriske fordelingen er en fordeling av tilfeldige forsøk uten tilbakelegging, hvor $$N$$ er totalt antall element, $$M$$ er antall positive forsøk, og $$n$$ er antall forsøk.
 
 $$X \sim hypergeom(N,M,n)$$
 

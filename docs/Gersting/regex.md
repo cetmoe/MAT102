@@ -22,7 +22,7 @@ parent: Gersting
 - $$\lambda = $$ tom streng.
 - $$\emptyset = $$ tomme mengden.
 - $$(ab)(bca) = abbca$$, konkatenering.
-- $$(ab)^\star = \lbrace (ab)^0, (ab)^1, (ab)^2, ... \rbrace = \lbrace \lambda, ab, abab, ... \rbrace$$, uendlig konkatenering.
+- $$(ab)^\star = \lbrace (ab)^0, (ab)^1, (ab)^2, ... \rbrace = \lbrace \lambda, ab, abab, ... \rbrace$$, uendelig konkatenering.
 
 ---
 
@@ -31,7 +31,7 @@ parent: Gersting
 
 I følge Kleene's teorem finnes det for alle regulære uttrykk en endelig tilstandsmaskin som aksepterer uttrykket.
 
-Som følge av det finnes det også altid et regulært uttryk for en endelig tilstandsmaskin.
+Som følge av det finnes det også alltid et regulært uttrykk for en endelig tilstandsmaskin.
 
 ---
 
@@ -52,7 +52,7 @@ Da får vi kanskje en slik oppdeling og ser at $$S_0, S_2$$ er ekvivalent, men i
 
 $$\lbrace S_0, S_2 \rbrace, \lbrace S_5 \rbrace, \lbrace S_1, S_3, S_4 \rbrace$$
 
-Nå sjekker vi for verdier som er ekvivalente for streng med lengde 2. Vi skjekker bare de leddene som forandret seg fra forrige iterasjon, altså $$S_0$$ og $$S_2$$.
+Nå sjekker vi for verdier som er ekvivalente for streng med lengde 2. Vi sjekker bare de leddene som forandret seg fra forrige iterasjon, altså $$S_0$$ og $$S_2$$.
 
 Vi får kanskje samme resultat som før:
 
@@ -75,6 +75,6 @@ Eksempel på uttrykk som er i mengda:
 
 Eksempel på uttrykk som *ikkje* er i mengda:
 
-- $$01$$, middelleddet er ikkje oppfyllt.
-- $$101$$, igjen er ikke middelleddet oppfyllt.
-- $$10011$$, endar på $11$.
+- $$01$$, middelleddet er ikkje oppfylt.
+- $$101$$, igjen er ikke middelleddet oppfylt.
+- $$10011$$, ender på $11$.
