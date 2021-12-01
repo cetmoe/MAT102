@@ -34,13 +34,16 @@ Estimatoren for forventningsverdien er $$\hat{\mu} = \frac{1}{n} \sum X_i$$, og 
 Vi har da noen utfall.
 
 ### $$H_1 : \mu > \mu_0$$ velg $$H_1$$ hvis:
+{: .text-green-200 }
 
 $$\hat{\mu} > \mu_0 + u_\alpha \frac{\sigma}{\sqrt{n}}$$
 
 ### $$H_1 : \mu < \mu_0$$ velg $$H_1$$ hvis:
+{: .text-green-200 }
 
 $$\hat{\mu} < \mu_0 - u_\alpha \frac{\sigma}{\sqrt{n}}$$
 
 ### $$H_1 : \mu \neq \mu_0$$ velg $$H_1$$ hvis:
+{: .text-green-200 }
 
 $$|\hat{\mu} - \mu_0 | > u_{\alpha / 2} \frac{\sigma}{\sqrt{n}}$$

@@ -21,18 +21,21 @@ parent: Kapittel 18
 Utregning av regresjon for et datasett er ikke eksamensrelevant.
 
 ### 1. ordens regresjon
+{: .text-green-200 }
 
 $$y = ax+b$$
 
 ---
 
 ### 2. ordens regresjon
+{: .text-green-200 }
 
 $$y=ax^2+bx+c$$
 
 ---
 
 ### 3. ordens regresjon
+{: .text-green-200 }
 
 $$y=ax^3+bx^2+cx+d$$
 

@@ -27,6 +27,7 @@ dersom tetthetsfunksjonen er
 $$f(x) = \frac{1}{\sqrt{2\pi}\sigma}e^{-\dfrac{(x-\mu)^2}{2\sigma ^2}}$$
 
 ### Errorfunksjonen
+{: .text-green-200 }
 
 $$\text{erf}(x) = \frac{2}{\sqrt{\pi}}\int_0^x e^{-t^2} dt$$
 

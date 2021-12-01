@@ -26,7 +26,7 @@ parent: Gersting
 
 ---
 
-## Regulære Uttrykk og Endlige Tilstandsmaskiner
+## Kleene's Teorem
 {: .text-green-000 }
 
 I følge Kleene's teorem finnes det for alle regulære uttrykk en endelig tilstandsmaskin som aksepterer uttrykket.

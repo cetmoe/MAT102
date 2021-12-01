@@ -23,14 +23,17 @@ Binomialfordelingen er en fordeling av tilfeldige forsøk med tilbakelegging, hv
 $$X \sim Bin(n,p)$$
 
 ### Forventing
+{: .text-green-200 }
 
 $$E(X) = n\cdot p$$
 
 ### Varians
+{: .text-green-200 }
 
 $$Var(X) = n\cdot p \cdot (1-p)$$
 
 ### Binomial Koeffisient
+{: .text-green-200 }
 
 La $$k$$ og $$n$$ være heiltall der $$0\leq k \leq n$$, da er binomial koeffesienten $$\binom{n}{k}$$ gitt ved
 
@@ -46,10 +49,12 @@ Hypergeometriskfordelingen er en fordeling av tilfeldige forsøk uten tilbakeleg
 $$X \sim hypergeom(N,M,n)$$
 
 ### Forventning
+{: .text-green-200 }
 
 $$E(X) = n \cdot \frac{M}{N}$$
 
 ### Varians
+{: .text-green-200 }
 
 $$Var(X) = n \cdot \frac{M}{N}\bigg(1-\frac{M}{N}\bigg)\cdot\frac{N-n}{N-1}$$
 
@@ -63,10 +68,12 @@ Poisson fordelingen beskriver tilfeller der vi har et endelig antall positive ut
 $$X \sim Po(\lambda t)$$
 
 ### Forventning og Varians
+{: .text-green-200 }
 
 $$E(X) = Var(X) = \lambda t$$
 
 ### Sannsynlighet for $$x$$ utfall
+{: .text-green-200 }
 
 $$P(X=x) = \frac{(\lambda t)^x}{x!}e^{-\lambda t}$$
 

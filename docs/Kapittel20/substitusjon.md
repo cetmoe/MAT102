@@ -34,6 +34,7 @@ $$f(u(x)) = \sum_{n=0}^\infty a_n(u(x))^n$$
 ---
 
 ### Funksjon til rekke
+{: .text-green-200 }
 
 Finn Talorrekka til $$\frac{1}{1-2x}$$
 
@@ -44,5 +45,6 @@ Vi kan også bruke substitusjon for å finne funksjonen til ei rekke.
 ---
 
 ### Rekke til funksjon
+{: .text-green-200 }
 
 $$\sum_{n=0}^\infty \frac{3^n}{n!}x^n = \sum_{n=0}^\infty \frac{(3x)^n}{n!} = \sum_{n=0}^\infty \frac{u^n}{n!} = e^u = e^{3x}$$

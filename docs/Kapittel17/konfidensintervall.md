@@ -21,11 +21,13 @@ parent: Kapittel 17
 Målet med et konfidensintervall er å finne et intervall $$[a,b]$$ der en med $$(1-\alpha)$$ % sikkerhet vet at gjennomsnittet ligger i intervallet.
 
 ### Hvilke faktorer påvirker resultatet?
+{: .text-green-200 }
 
 - Antall målinger
 - Hvor sikker en vil være, $$95$$ %? $$99%$$ %?
 
 ### Framgangsmåte
+{: .text-green-200 }
 
 Bakgrunn:
 
@@ -42,6 +44,7 @@ $$\hat{\mu} \pm u_{\alpha/2} \cdot \frac{\sigma}{\sqrt{n}}= \bigg[\hat{\mu}-u_{\
 Hvor $$u_\alpha$$ er en konstant.
 
 ### Lengde av konfidensintervall
+{: .text-green-200 }
 
 Formel for å finne antall forsøk som trengs for at lengden av intervallet skal være $$\leq k$$
 
@@ -68,7 +71,7 @@ $$(1-\alpha)$$ konfidensintervallet for $$\mu$$ er:
 $$\overline{X} \pm t_{\alpha/2,n-1} \cdot \frac{S}{\sqrt{n}}$$
 
 ---
-## $$u_\alpha$$ tabell.
+## $$u_\alpha$$ tabell
 {: .text-green-000 }
 
 | $$u_\alpha$$ | $$\alpha$$ | Sikkerhet |
