@@ -71,11 +71,10 @@ $$(1-\alpha)$$ konfidensintervallet for $$\mu$$ er:
 $$\overline{X} \pm t_{\alpha/2,n-1} \cdot \frac{S}{\sqrt{n}}$$
 
 ---
-## $$u_\alpha$$ tabell
+## $$u_{\alpha/2}$$ tabell
 {: .text-green-000 }
 
 | $$u_\alpha$$ | $$\alpha$$ | Sikkerhet |
 |:-------------|:-----------|:----------|
-| $$2.576$$ | $$0.01$$ | $$99$$ % konf. int.|
-| $$1.960$$ | $$0.05$$ | $$95$$ % konf. int.|
-| $$1.645$$ | $$0.1$$ | $$90$$ % konf. int.|
+| $$1.960$$ | $$0.025$$ | $$97.5$$ % konf. int.|
+| $$1.645$$ | $$0.05$$ | $$95$$ % konf. int.|
