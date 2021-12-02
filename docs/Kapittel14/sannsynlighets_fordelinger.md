@@ -32,6 +32,11 @@ $$E(X) = n\cdot p$$
 
 $$Var(X) = n\cdot p \cdot (1-p)$$
 
+### $$P(X=x)$$, sjanse for x
+{: .text-green-200 }
+
+$$P(X=x) = \binom{n}{x}p^x(1-p)^{n-x}$$
+
 ### Binomial Koeffisient
 {: .text-green-200 }
 
@@ -47,6 +52,11 @@ $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$
 Den Hypergeometriske fordelingen er en fordeling av tilfeldige forsøk uten tilbakelegging, hvor $$N$$ er totalt antall element, $$M$$ er antall positive forsøk, og $$n$$ er antall forsøk.
 
 $$X \sim hypergeom(N,M,n)$$
+
+### $$P(X=x)$$, sjanse for x
+{: .text-green-200 }
+
+$$P(X=x) = \frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}$$
 
 ### Forventning
 {: .text-green-200 }
